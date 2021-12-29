@@ -8,6 +8,8 @@ If you want to the report, [email](z.li2281@qq.com) me.
 ## --Data source:
 [TLC Trip Record Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
+Use: **green_tripdata_2019-09.csv**
+
 
 ## --Reference: 
 [AWS NYC Taxi Analysis](https://github.com/cuicaihao/aws_nyc_taxi_analysis)
